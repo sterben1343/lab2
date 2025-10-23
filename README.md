@@ -1,5 +1,6 @@
 1) Скачал Docker Desktop
-2) Создал nginx image
+2) Скачал nginx image через Docker Desktop
+![alt text](<Screenshot 2025-10-23 at 14.49.41.png>)
 3) Создал проект в vs code
 ![alt text](image-1.png)
 4) Docker file и index.html
